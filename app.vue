@@ -1,5 +1,7 @@
 <template>
-  <div>
-    <span class="text-3xl">hola</span>
-  </div>
+  <UApp>
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
+  </UApp>
 </template>
